@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: eaglewang
+username: eaglewng
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
